@@ -29,17 +29,17 @@
     "portfolio" : [
         {
             "id": "1",
-            "src": "./img/placeholder-image-1.png",
+            "src": "./img/Dashboard_Project.png",
             "title": "News/Weather Dashboard",
-            "description": "Using React to create a dashboard that displays news and weather information",
-            "link": "View in Github"
+            "description": "This was a team project where we used React to create a dashboard that displays news and weather information based on the loction entered by the user.",
+            "link": "https://dashboard-85og.vercel.app/"
         },
         {
             "id": "2",
-            "src": "/img/placeholder-image-2.png",
-            "title": "WIPRO AI Webstite Project",
-            "description": "Using bolt.new using purely prompts along with tools like ChatGPT & Deepseek",
-            "link": "View in Github"
+            "src": "/img/WIPRO_Site_Project.png",
+            "title": "WIPRO Website (AI)",
+            "description": "In this project I used bolt.new with 98% prompts and about 2% manual coding, along with tools like ChatGPT & Deepseek.",
+            "link": "https://resplendent-genie-bc2cf1.netlify.app/"
         },
         {
             "id": "3",

@@ -2,13 +2,13 @@ function AboutMe(){
     return(
         <section id = "AboutMe" className="about-section">
             <div className="about-section-img">
-                <img src="./img/Profile_Image.jpg" alt ="About Me"/>
+                <img src="./img/Tlotlo_Golelelwang.jpg" alt ="About Me"/>
             </div>
             <div className="hero-section-content-box about-section-box">
                 <div className="hero-section-content">
-                    <p className="section-title">
+                    {/* <p className="section-title">
                         About
-                    </p>
+                    </p> */}
                     <h1 className="skills-section-heading">
                         About Me
                     </h1>
