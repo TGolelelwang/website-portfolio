@@ -33,7 +33,7 @@ function MyPortfolio(){
                                     <p className="text-md">{item.description}</p>
                                 </div>
                                 <p className="text-sm portfolio-link">
-                                    <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>View Project</a>
+                                    <a href={item.link} target="_blank" rel="noopener noreferrer">View Project</a>
                                 </p>
                             </div>
                         </div>
