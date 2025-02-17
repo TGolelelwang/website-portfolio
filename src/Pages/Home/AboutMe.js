@@ -13,19 +13,23 @@ function AboutMe(){
                         About Me
                     </h1>
                 </div>
-                <p className="hero-section-description">
-                    Why Data Analytics, well simply because I tried Development and I did enjoy it.
-                    But I found that I enjoyed the data more than the development.
-                    <br></br>
 
-                    And that is how we I got here. The concept of finding data, querying it (finding what it has to say) and then having to present the findings and communicating those insights really excites me.
+                <p className="hero-section-description">
+                When you are looking for a place to go for vacation, you look at the area,
+                how much it costs, activities and many other factors in order to make a decision... a <b>data-driven</b> decision. That process of
+                finding information, analyzing it and making decisions based on that information is what scratches that itch in my brain. 
+
 
                 </p>
                 <p className="hero-section-description">
-                    lorem30 duhadfadfad agkadlga dgdadaodf adfdf
-                    adfaodh adufhaodf adf aodfhaduof adf.
-                    adfljadnfajdfhuoadf
-                    fadfadlfjhadofa
+                    And that's why I am pursuing Data Analytics, also because I tried Software Development and I did not enjoy it.
+                    But I found that I enjoyed the data more than the development.
+                    <br></br>
+
+                </p>
+                <p className="hero-section-description">
+                    Along the way I have picked up some useful skills such as AI Engineering, Chatbot Development, Communication and Lead
+
 
                 </p>
             </div>

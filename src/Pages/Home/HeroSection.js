@@ -16,9 +16,9 @@ function HeroSection(){
                     </h1>
                     <p className ="hero-section-description">
                     
-                       Let me tell your story. By delving, sorting, cleaning and visualizing data I get to find out all the facts about the story that lies within your orginization. 
+                       Let me tell your story. By delving, sorting, cleaning and visualizing data I get to find out all the facts about the story that lies within your organization. 
                         <br/>
-                        Explore my page, see and read about my journey of data story telling.
+                        Explore my page, find out more about me and what I have to offer.
                     
                     </p>
                 </div>
