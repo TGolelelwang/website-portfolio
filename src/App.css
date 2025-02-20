@@ -423,7 +423,22 @@ h2{
   stroke: #006b6a;
 }  /* Portolio Ends */
 
+/* Add hover effect to the project cards */
+.portfolio-section-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
 
+/* Update the .portfolio-link styles */
+.portfolio-link a {
+    color: inherit; /* Inherit the color from the parent */
+    text-decoration: none; /* Remove the underline */
+}
+
+.portfolio-link a:hover {
+    color: #7a9793; /* Change the color on hover */
+}
 
 /* CONTACT PAGE */
 

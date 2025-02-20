@@ -11,7 +11,7 @@ function HeroSection(){
                     </p>
                     <h1 className ="hero-section-title">
                         <span className ="hero-section-title-color">
-                            Data Analyst
+                            Aspiring Data Analyst
                         </span>{" "}
                     </h1>
                     <p className ="hero-section-description">
